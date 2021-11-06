@@ -1,4 +1,3 @@
-#学籍番号：19H060 　氏名：チャン　ヒュ　コア
 import sqlite3
 conn = sqlite3.connect('ec.db')
 c = conn.cursor()
