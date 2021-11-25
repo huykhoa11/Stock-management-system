@@ -1,5 +1,5 @@
 # Stock-management-system
-Simple stock management system using sqlite3 run by command line.<br>
+Simple stock management system run by command line.<br>
 Use SQlite3 to save data and history of orders.<br>
 Input 1-12 to execute.
 
